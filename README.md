@@ -1,0 +1,3 @@
+# Payday Planner 2.0
+Upload the contents of this folder to the root of a GitHub repository. Import that repository in Netlify. Leave build command blank and set publish directory to `.`. No dependencies required. On iPhone open the deployed URL in Safari, tap Share, then Add to Home Screen.
+Data is local to the browser. Export backups from Settings. Personal setup is optional. Paycheck deductions are estimates; actual deposits override them. Bills are manually allocated, and recurring frequency is a label in this version. Forecast is base income or remaining planned pay, not a complete cash-flow projection. Overtime is entered per paycheck. No bank connection or cloud sync.
